@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map FastTransfer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FastTransfer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+sendData	KEYWORD2
+receiveData	KEYWORD2
+begin	KEYWORD2
+ToSend	KEYWORD2
+AKNAK	KEYWORD2
+alignError	KEYWORD2
+CRCError	KEYWORD2
+addressError	KEYWORD2
+dataAddressError	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+Details	LITERAL1
